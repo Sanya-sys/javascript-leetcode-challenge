@@ -9,7 +9,7 @@ const problems = [
   { day: 2, title: "Counter", link: "problems/day2/solution.js" },
   { day: 3, title: "To Be Or Not To Be", link: "problems/day3/solution.js" },
   { day: 4, title: "Counter II", link: "problems/day4/solution.js" },
-  { day: 2, title: "Counter", link: "problems/day2/solution.js" },
+  { day: 5, title: "Apply Transform Over Each Element in Array", link: "problems/day5/solution.js" },
   { day: 2, title: "Counter", link: "problems/day2/solution.js" },
   { day: 2, title: "Counter", link: "problems/day2/solution.js" },
   { day: 2, title: "Counter", link: "problems/day2/solution.js" },

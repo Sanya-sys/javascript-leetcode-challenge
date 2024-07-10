@@ -11,7 +11,7 @@ const problems = [
   { day: 4, title: "Counter II", link: "problems/day4/solution.js" },
   { day: 5, title: "Apply Transform Over Each Element in Array", link: "problems/day5/solution.js" },
   { day: 6, title: "Filter Elements from Array", link: "problems/day6/solution.js" },
-  { day: 2, title: "Counter", link: "problems/day2/solution.js" },
+  { day: 7, title: "Array Reduce Transformation", link: "problems/day7/solution.js" },
   { day: 2, title: "Counter", link: "problems/day2/solution.js" },
   { day: 2, title: "Counter", link: "problems/day2/solution.js" },
 ];

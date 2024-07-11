@@ -24,3 +24,17 @@ function printOutput() {
   console.log(memoizedFn(2, 3));
   console.log(callCount); // 1
 }
+
+// solution using map
+// const optimizedSolution = () => {
+//     let map = new Map();
+//     return function(...args) {
+//         const values = JSON.stringify(...args);
+//         if(map.has(values)) {
+//             return map.get(values)
+//         }
+//         const result = fn(...args);
+//         map.set(values,result);
+//         return result;
+//     }
+// }

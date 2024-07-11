@@ -12,8 +12,10 @@ const problems = [
   { day: 5, title: "Apply Transform Over Each Element in Array", link: "problems/day5/solution.js" },
   { day: 6, title: "Filter Elements from Array", link: "problems/day6/solution.js" },
   { day: 7, title: "Array Reduce Transformation", link: "problems/day7/solution.js" },
-  { day: 2, title: "Counter", link: "problems/day2/solution.js" },
-  { day: 2, title: "Counter", link: "problems/day2/solution.js" },
+  { day: 8, title: "Function Composition", link: "problems/day8/solution.js" },
+  { day: 9, title: "Return Length of Arguments Passed", link: "problems/day9/solution.js" },
+  { day: 10, title: " Allow One Function Call", link: "problems/day10/solution.js" },
+  { day: 11, title: "Memoize", link: "problems/day11/solution.js" },
 ];
 
 document.addEventListener("DOMContentLoaded", () => {

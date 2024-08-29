@@ -16,6 +16,9 @@ const problems = [
   { day: 9, title: "Return Length of Arguments Passed", link: "problems/day9/solution.js" },
   { day: 10, title: " Allow One Function Call", link: "problems/day10/solution.js" },
   { day: 11, title: "Memoize", link: "problems/day11/solution.js" },
+  { day: 12, title: "Add two promises", link: "problems/day12/solution.js" },
+  { day: 13, title: "Sleep", link: "problems/day13/solution.js" },
+  { day: 14, title: "Timeout Cancellation", link: "problems/day14/solution.js" },
 ];
 
 document.addEventListener("DOMContentLoaded", () => {

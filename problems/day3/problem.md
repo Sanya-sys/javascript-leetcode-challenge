@@ -1,4 +1,4 @@
-# Day 1: 
+# Day 3: 
 To Be Or Not To Be
 
 ## Problem Description

@@ -19,6 +19,7 @@ const problems = [
   { day: 12, title: "Add two promises", link: "problems/day12/solution.js" },
   { day: 13, title: "Sleep", link: "problems/day13/solution.js" },
   { day: 14, title: "Timeout Cancellation", link: "problems/day14/solution.js" },
+  { day: 15, title: "Interval Cancellation", link: "problems/day15/solution.js" },
 ];
 
 document.addEventListener("DOMContentLoaded", () => {

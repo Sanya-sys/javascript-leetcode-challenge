@@ -1,4 +1,4 @@
-# Day 1: 
+# Day 7: 
 Array Reduce Transformation
 
 ## Problem Description
